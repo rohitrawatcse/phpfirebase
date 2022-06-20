@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="container" style="margin-top: 50px;">
-        <h4 class="text-center">PHP CRUD Operation Using Google Firebase - NiceSnippets.com</h4><br>
+        <h4 class="text-center">PHP CRUD</h4><br>
         <h5>Add User</h5>
         <div class="card card-default">
             <div class="card-body">
